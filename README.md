@@ -4,8 +4,8 @@
 
 ### My Skills Include  
 <p align="left">
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/py.svg" width="50" height="50" />
-	<img title="Java" alt="Java" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/java.svg" width="50" height="50" />
+	<img title="Intermediate Python" alt="Python" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/py.svg" width="50" height="50" />
+	<img title="Intermediate Java" alt="Java" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/java.svg" width="50" height="50" />
 	<img title="Discord Bot Development" alt="Discord Bot Development" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/discord.svg" height="50" width="50"/>
 	<img title="Ex-Minecraft Server Dev @RawkneeSMP & @Rexkraft" alt="Java" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/minecraft.png" width="50" height="50" />
 </p>
