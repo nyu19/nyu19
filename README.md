@@ -25,6 +25,7 @@
 
 <p align="left">
 	<img title="Android" alt="Android" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/android.svg" width="50" height="50" />
+	<img title="IOS Development" alt="IOS" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/apple.svg" width="50" height="50" />
 	<img title="CSS" alt="CSS" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/css.svg" width="50" height="50" />
 	
 </p>
