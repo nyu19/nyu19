@@ -2,7 +2,7 @@
 
 
 
-### My Skills Include  
+### My Skills Include<img src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/stonk.gif" style="filter:FlipH" height="20" width="20">
 <p align="left">
 	<img title="Intermediate Python" alt="Python" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/py.svg" width="50" height="50" />
 	<img title="Intermediate Java" alt="Java" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/java.svg" width="50" height="50" />
