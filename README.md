@@ -1,4 +1,4 @@
-# Hey there 👋
+# Hey there <img src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/peace.gif" width="20" height="20">
 
 
 
