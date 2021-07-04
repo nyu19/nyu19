@@ -31,7 +31,6 @@
 	
 </p>
 
-<img title="Quote" alt="Quote" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/carbon.svg" />
-
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyu19&layout=compact&theme=onedark" />
+<img title="Quote" alt="Quote" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/carbon.svg" />
