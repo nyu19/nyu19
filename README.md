@@ -1,5 +1,5 @@
 # Hey there<img src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/peace.gif" width="30" height="30">
-<img src="https://www.codewars.com/users/nyu19/badges/large" alt="nyu19s' Codewars Badge" title="nyu19s' Codewars Badge"/>
+<!-- <img src="https://www.codewars.com/users/nyu19/badges/large" alt="nyu19s' Codewars Badge" title="nyu19s' Codewars Badge"/> -->
 
 
 ### My Skills Include 💪
