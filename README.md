@@ -5,7 +5,7 @@
 ### My Skills Include 💪
 <p align="left">
 	<img title="Intermediate Python" alt="Python" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/py.svg" width="50" height="50" />
-	<img title="Intermediate Java" alt="Java" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/java.svg" width="50" height="50" />
+	<img title="Intermediate Java" alt="Java" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/java.png" width="50" height="50" />
 	<img title="Discord Bot Development" alt="Discord Bot Development" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/discord.png" height="50" width="50"/>
 	<img title="REST APIs" alt="REST APIs" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/api.png" width="50px" height="50px">
 	<img title="Automation / Web-Automation" alt="Automation" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/automation.png" width="50px" height="50px">
