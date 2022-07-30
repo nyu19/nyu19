@@ -9,6 +9,7 @@
 	<img title="Discord Bot Development" alt="Discord Bot Development" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/discord.png" height="50" width="50"/>
 	<img title="REST APIs" alt="REST APIs" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/api.png" width="50px" height="50px">
 	<img title="Automation / Web-Automation" alt="Automation" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/automation.png" width="50px" height="50px">
+	<img title="Ubuntu / Linux" alt="Ubuntu" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/ubuntu.png" width="50px" height="50px">
 </p>
 
 ### Familiar with
