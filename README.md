@@ -17,7 +17,6 @@
 ### Familiar with
 
 <p align="left">
-	
     	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/git.svg" width="50" height="50" />
 	<img title="SQL" alt="SQL" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/sql.svg" width="50" height="50" />	
 	<img title="Firebase" alt="Firebase" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/firebase.svg" width="50" height="50" />
