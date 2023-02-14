@@ -10,13 +10,14 @@
 	<img title="REST APIs" alt="REST APIs" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/api.png" width="50px" height="50px">
 	<img title="Automation / Web-Automation" alt="Automation" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/automation.png" width="50px" height="50px">
 	<img title="Ubuntu / Linux" alt="Ubuntu" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/ubuntu.png" width="50px" height="50px">
+	<img title="Express JS" alt="Express JS" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/express.png" width="50" height="50" />
+	<img title="Node JS" alt="Node JS" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/node.png" width="50" height="50" />
 </p>
 
 ### Familiar with
 
 <p align="left">
-	<img title="Express JS" alt="Express JS" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/express.png" width="50" height="50" />
-	<img title="Node JS" alt="Node JS" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/node.png" width="50" height="50" />
+	
     	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/git.svg" width="50" height="50" />
 	<img title="SQL" alt="SQL" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/sql.svg" width="50" height="50" />	
 	<img title="Firebase" alt="Firebase" src="https://raw.githubusercontent.com/nyu19/nyu19/master/media/firebase.svg" width="50" height="50" />
